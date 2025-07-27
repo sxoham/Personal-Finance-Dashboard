@@ -1,7 +1,5 @@
 # Personal Finance Dashboard
 
-![Project Logo](logo.png)
-
 A web-based application designed to help users track their income and expenses, visualize their financial habits, and manage their personal finances effectively.
 
 ## ✨ Features
