@@ -27,8 +27,6 @@ A web-based application designed to help users track their income and expenses, 
 
 ## 📂 File Structure
 
-
-
 .
 ├── 📄 index.html # The main finance dashboard page.
 ├── 📄 login.html # User login page.
