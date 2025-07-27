@@ -2,6 +2,12 @@
 
 A web-based application designed to help users track their income and expenses, visualize their financial habits, and manage their personal finances effectively.
 
+## 📸 Dashboard Preview
+
+Here’s a preview of the Personal Finance Dashboard in action:
+
+![Finance Dashboard Preview](assets/dashboard.png)
+
 ## ✨ Features
 
 * **Secure User Authentication:** Users can create an account and log in to manage their private financial data.
