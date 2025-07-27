@@ -6,7 +6,7 @@ A web-based application designed to help users track their income and expenses, 
 
 Here’s a preview of the Personal Finance Dashboard in action:
 
-![Finance Dashboard Preview](assets/dashboard.png)
+![Finance Dashboard Preview](dashboard.png)
 
 ## ✨ Features
 
