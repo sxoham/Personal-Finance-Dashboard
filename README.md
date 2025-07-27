@@ -27,17 +27,15 @@ A web-based application designed to help users track their income and expenses, 
 
 ## 📂 File Structure
 
-.
-├── 📄 index.html # The main finance dashboard page.
-├── 📄 login.html # User login page.
-├── 📄 register.html # User registration page.
-├── 📄 style.css # Styles for the main dashboard (index.html).
-├── 📄 my-login.css # Styles for the login and register pages.
-├── 🖼️ logo.png # The application logo.
-├── 📜 script.js # Main JavaScript logic for the dashboard.
-├── 📜 my-login.js # JavaScript for handling login and registration forms.
-└── 📜 firebaseConfig.js # Configuration file for connecting to Firebase.
-## 🚀 Getting Started
+<pre lang="markdown">├── 📄 index.html # The main finance dashboard page. 
+   ├── 📄 login.html # User login page. 
+   ├── 📄 register.html # User registration page. 
+   ├── 📄 style.css # Styles for the main dashboard (index.html). 
+   ├── 📄 my-login.css # Styles for the login and register pages. 
+   ├── 🖼️ logo.png # The application logo. 
+   ├── 📜 script.js # Main JavaScript logic for the dashboard. 
+   ├── 📜 my-login.js # JavaScript for handling login and registration forms. 
+   └── 📜 firebaseConfig.js # Configuration file for connecting to Firebase. ``` </pre>
 
 To get a local copy up and running, follow these simple steps.
 
